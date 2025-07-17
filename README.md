@@ -1,6 +1,7 @@
 # 🦠 AI Amoebas
 
 **A real-time multiplayer simulation where you create and program AI-controlled amoebas using a custom behavior scripting language.**
+Created using Claude Code
 
 ![AI Amoebas Demo](https://img.shields.io/badge/Status-Live%20Demo-brightgreen) ![React](https://img.shields.io/badge/Frontend-React%20+%20TypeScript-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js%20+%20Socket.io-green) ![Canvas](https://img.shields.io/badge/Rendering-HTML5%20Canvas-orange)
 
@@ -215,51 +216,10 @@ ai-amoebas/
 - Algae regenerates every 30 seconds
 - Real-time simulation at 10 FPS
 
-## 🤝 Contributing
-
-We welcome contributions! Here are some ways to help:
-
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- 🎨 Improve UI/UX design
-- 📚 Enhance documentation
-- 🧪 Add test coverage
-- 🎯 Create new behavior templates
-
-### Development Setup
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Test thoroughly
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
-
-## 🔮 Roadmap
-
-### Phase 2 (Planned)
-- [ ] MongoDB integration for data persistence
-- [ ] User accounts and species libraries
-- [ ] Deployment configuration for production
-- [ ] Performance optimizations
-- [ ] Mobile responsive design
-
-### Phase 3 (Future)
-- [ ] Tournament system
-- [ ] Advanced behavior debugging tools
-- [ ] Species marketplace
-- [ ] 3D visualization mode
-- [ ] Machine learning behavior generation
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Inspired by artificial life simulations and cellular automata
-- Built with modern web technologies for real-time multiplayer experiences
-- Special thanks to the open-source community for the amazing tools and libraries
 
 ## 🎯 Live Demo
 

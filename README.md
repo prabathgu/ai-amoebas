@@ -1,9 +1,10 @@
 # 🦠 AI Amoebas
 
 **A real-time multiplayer simulation where you create and program AI-controlled amoebas using a custom behavior scripting language.**
-Created using Claude Code
 
 ![AI Amoebas Demo](https://img.shields.io/badge/Status-Live%20Demo-brightgreen) ![React](https://img.shields.io/badge/Frontend-React%20+%20TypeScript-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js%20+%20Socket.io-green) ![Canvas](https://img.shields.io/badge/Rendering-HTML5%20Canvas-orange)
+
+(Created using Claude Code)
 
 ## 🎮 What is AI Amoebas?
 
